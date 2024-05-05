@@ -1,0 +1,7 @@
+Aladar hatved 8 2
+Bela hatved 10 2
+Csaba csatar 7 10
+Dezso csatar 8 11
+Elemer kozeppalyas 9 3
+Ferenc kozeppalyas 9 3
+Geza csatar 9 4
